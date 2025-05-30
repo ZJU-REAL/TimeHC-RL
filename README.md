@@ -20,7 +20,7 @@ LLMs’ Social Intelligence</h1>
                 <div class="is-size-5 publication-authors">
               <div class="is-size-5 publication-authors">
                 <span class="author-block">
-                  <a href="mailto:gyhou@zju.edu.cn" target="_blank">Guiyang Hou</a><sup>1,*</sup>,
+                  <a href="mailto:gyhou@zju.edu.cn" target="_blank">Guiyang Hou</a><sup>1*</sup>,
                 </span>
                 <span class="author-block">
                   Xing Gao<sup>1</sup>,
