@@ -1,2 +1,5 @@
-# TimeHC-RL
-This repository is the official implementation of TimeHC-RL (Distilabel (Data Generation) + TRL (SFT) + VeRL (GRPO)).
+<div align="center">
+     <h1>TimeHC-RL: Temporal-aware Hierarchical
+Cognitive Reinforcement Learning for Enhancing
+LLMs’ Social Intelligence</h2>
+</div>
