@@ -23,13 +23,13 @@ LLMs’ Social Intelligence</h1>
                   <a href="mailto:gyhou@zju.edu.cn" target="_blank">Guiyang Hou</a><sup>1*</sup>,
                 </span>
                 <span class="author-block">
-                  Xing Gao<sup>1</sup>,
+                  Xing Gao<sup>2</sup>,
                 </span>
                 <span class="author-block">
-                  Yuchuan Wu<sup>1</sup>,
+                  Yuchuan Wu<sup>2</sup>,
                 </span>
                 <span class="author-block">
-                  Xiang Huang<sup>1</sup>,
+                  Xiang Huang<sup>2,3</sup>,
                 </span>
                 <span class="author-block">
                   Wenqi Zhang<sup>1</sup>,
@@ -44,10 +44,10 @@ LLMs’ Social Intelligence</h1>
                   Jialu Du<sup>1</sup>,
                 </span>
                 <span class="author-block">
-                  Fei Huang<sup>1</sup>,
+                  Fei Huang<sup>2</sup>,
                 </span>
                 <span class="author-block">
-                  <a href="mailto:shuide.lyb@alibaba-inc.com" target="_blank">Yongbin Li</a><sup>1†</sup>,
+                  <a href="mailto:shuide.lyb@alibaba-inc.com" target="_blank">Yongbin Li</a><sup>2†</sup>,
                 </span>
                 <span class="author-block">
                   <a href="mailto:luwm@zju.edu.cn" target="_blank">Weiming Lu</a><sup>1†</sup>,
