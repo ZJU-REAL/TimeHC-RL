@@ -12,7 +12,7 @@ LLMs’ Social Intelligence</h1>
             <div class="column has-text-centered">
                 <div class="is-size-5 publication-links">
                     <p>
-                    🔗 <a href="[https://arxiv.org/abs/2505.24500]" target="_blank">arXiv</a> |
+                    🔗 <a href="https://arxiv.org/abs/2505.24500" target="_blank">arXiv</a> |
                     📄 <a href="https://arxiv.org/pdf/2505.24500" target="_blank">PDF</a> 
                     </p>
                 </div>
