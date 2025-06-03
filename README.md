@@ -66,7 +66,7 @@ LLMs’ Social Intelligence</h1>
 
 #### Results
 <p align="center">
-<img src="figures/logo.jpg">
+<img src="figures/result1.png">
 </p>
 
 ## Citation
