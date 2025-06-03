@@ -63,6 +63,23 @@ LLMs’ Social Intelligence</h1>
   </div>
 </section>
 
+## Citation
+
+If you find our work helpful, feel free to give us a cite.
+
+```
+@misc{xu2025mindgapbridgingthought,
+      title={Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning},
+      author={Haolei Xu and Yuchen Yan and Yongliang Shen and Wenqi Zhang and Guiyang Hou and Shengpei Jiang and Kaitao Song and Weiming Lu and Jun Xiao and Yueting Zhuang},
+      year={2025},
+      eprint={2505.14684},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.14684},
+}
+```
+
+
 ## Contact Us
 If you have any questions, please contact us by email: 
 gyhou@zju.edu.cn, luwm@zju.edu.cn
