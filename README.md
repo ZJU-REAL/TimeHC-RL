@@ -60,9 +60,9 @@ LLMs’ Social Intelligence</h1>
                     <span class="author-block">Preprint. Under review.</span>
                     <span class="eql-cntrb"><small><br><sup>*</sup>This work was done when the first author was an intern at Tongyi Lab, <sup>†</sup>Corresponding Author</small></span>
                   </div>
-  </div>
+  
 </section>
-
+</div>
 
 #### Results
 <p align="center">
