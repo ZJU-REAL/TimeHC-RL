@@ -69,6 +69,10 @@ LLMs’ Social Intelligence</h1>
 <img src="figures/result1.png">
 </p>
 
+<p align="center">
+<img src="figures/result2.png">
+</p>
+
 
 ## Contact Us
 If you have any questions, please contact us by email: 
