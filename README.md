@@ -3,6 +3,7 @@
 Cognitive Reinforcement Learning for Enhancing <br/>
 LLMs’ Social Intelligence</h1>
 </div>
+<div align="center">
 <section class="hero">
     <div class="hero-body">
       <div class="container is-max-desktop">
