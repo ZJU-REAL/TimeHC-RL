@@ -73,6 +73,21 @@ LLMs’ Social Intelligence</h1>
 <img src="figures/result2.png">
 </p>
 
+## Citation
+
+If you find our work helpful, feel free to give us a cite.
+
+```
+@misc{hou2025timehcrltemporalawarehierarchicalcognitive,
+      title={TimeHC-RL: Temporal-aware Hierarchical Cognitive Reinforcement Learning for Enhancing LLMs' Social Intelligence}, 
+      author={Guiyang Hou and Xing Gao and Yuchuan Wu and Xiang Huang and Wenqi Zhang and Zhe Zheng and Yongliang Shen and Jialu Du and Fei Huang and Yongbin Li and Weiming Lu},
+      year={2025},
+      eprint={2505.24500},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.24500}, 
+}
+```
 
 ## Contact Us
 If you have any questions, please contact us by email: 
